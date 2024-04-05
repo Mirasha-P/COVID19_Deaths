@@ -1,6 +1,6 @@
 SELECT *
 FROM raw.covid_deaths
-WHERE continent is NOT NULL;
+
 
 
 SELECT *
