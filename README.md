@@ -58,4 +58,4 @@ ORDER BY 1,2;
 
 ## Contact
 
-For any questions or feedback, please reach out to [Your Name] at [your email].
+For any questions or feedback, please reach out.
